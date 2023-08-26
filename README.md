@@ -6,7 +6,7 @@
 **Turma:** M2
 
 ## Sobre o problema do Leetcode
-Era dada uma função que recebia a raiz de uma árvore binária, cujos nodes guardavam valores inteiros, e dois valores inteiros, se os valores eram primos (tem a mesma altura na árvore mas pais diferentes) a função deveria retornar `true`, caso contrário, retornaria `false`.
+Era dada uma função que recebia a raiz de uma árvore binária, cujos nodos guardavam valores inteiros, e dois valores inteiros, se os nodos eram primos (tem a mesma altura na árvore mas pais diferentes) a função deveria retornar `true`, caso contrário, retornaria `false`.
 
 ## Casos que testaram com sucesso
 
